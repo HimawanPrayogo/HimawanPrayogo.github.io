@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+
+
+html{
+    background-color: rgb(1, 1, 53);
+   }
+
+body{
+    width: 50%;
+    margin: auto;
+    border: 10px solid rgb(240, 213, 177);
+    padding: 5px;
+    background-color: cornsilk ;
+    border-radius: 18%;
+}
+
+
+body header {
+    font-style: normal;
+    font-family:"Madimi One";
+    font-weight: bold;
+    text-align: center;
+    font-size: 210%;
+    letter-spacing: 2%;
+    padding:10%
+
+}
+
+
+
+body main div img{
+    width: 60px;
+    height:52px;
+    padding: 10px;
+    
+}
+
+body main div{
+    border: 5px orange solid;
+    border-radius: 20%;
+    background-color: black;
+    width:70%;
+    margin: auto;
+    
+    
+}
+
+body main div a:nth-child(2){
+    color:wheat;
+    width: 115px;
+    height: 50px;
+    margin: auto;
+    text-decoration: none;
+    
+    
+}
+
+
+
+
+/* 
+body main table#info,tr.kotak{
+    border:8px darkblue solid;
+    border-radius: 15%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body footer {
+    text-align: center;
+    margin:10%;
+}
+
+body> footer>table tr td img {
+    width: 50px;
+    height: 50px;
+    border-style: none;
+    
+}
+
+body> footer table,tr,td{
+    margin-left: auto;
+    margin-right: auto;
+    border-style: none;
+}
+
+
+
+
+
+
+
+   
+
+   
